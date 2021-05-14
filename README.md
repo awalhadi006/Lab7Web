@@ -42,8 +42,8 @@ http://localhost/lab7_php_dasar/php_dasar.php
   
   ![Screenshot_229](https://user-images.githubusercontent.com/24362384/118232332-944e2c80-b4ba-11eb-828b-725508c2aa92.png)
 
-  <li><b>Predefine Variable $_GET</b>
-  Buat file baru dengan nama "lathian2.php" dan masukkan kode berikut.
+  <li><b>Predefine Variable $_GET</b><br>
+  Buat file baru dengan nama "latihan2.php" dan masukkan kode berikut.
   
   ![Screenshot_230](https://user-images.githubusercontent.com/24362384/118232812-4ede2f00-b4bb-11eb-8756-885365669324.png)
 

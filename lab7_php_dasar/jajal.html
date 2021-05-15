@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{background:lightgreen}
+        fieldset{width:350px; margin: 210px 120px;}
+        legend{text-align: center;}
+        label{display: inline-flex; vertical-align: top; text-align: left; width: 140px; padding-left: 5px; margin-bottom: 20px;}
+    </style>
+</head>
+<body>
+
+<form>
+ <fieldset style="float: left;">
+  <legend>Input</legend>
+    <label>Nama Lengkap&nbsp;&nbsp;&nbsp;:</label>
+    <input type="text" name="nama">
+    <label>Tanggal Lahir&emsp;&nbsp;:</label>
+    <input type="date" name="tgl_lahir">
+    <label>Pekerjaan&emsp;&emsp;&emsp;:</label>
+    <select name="pekerjaan">
+        <option value="pilih">~ Pilih Pekerjaan ~</option>
+        <option value="software">Software Developer</option>
+        <option value="database">Database Administrator</option>
+        <option value="hardware">Hardware Engineer</option>
+        <option value="system">System Analyst</option>
+        <option value="network">Network Architect</option>
+    </select>
+    <button type="submit" name="btn">Kirim</button>
+
+ </fieldset>
+ 
+  <fieldset style="float: right;">
+  <legend>Output</legend>
+  <label>Nama Lengkap&nbsp;&nbsp;&nbsp;:</label>
+  <input type="text">
+  <label>Umur&emsp;&nbsp;:</label>
+  <input type="text"><br>
+  <label>Alamat&emsp;&emsp;&emsp;&emsp;:</label>
+  <input type="text"><br>
+  <label>No. Telp&emsp;&emsp;&emsp;&nbsp;&nbsp;:</label>
+  <input type="text">
+
+  <?php
+  
+  ?>
+ </fieldset>
+</form>
+
+
+</body>
+</html>
+

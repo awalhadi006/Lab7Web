@@ -93,7 +93,15 @@ berbeda-beda sesuai pilihan pekerjaan.
  
  <h3>Jawaban</h3>
  <ol>
-   <li> 
+   <li> Kodingannya :
      
+   ![Screenshot_241](https://user-images.githubusercontent.com/24362384/118349343-64fef480-b57a-11eb-8913-c4b1fc70a6c7.png)
+
+   ![Screenshot_242](https://user-images.githubusercontent.com/24362384/118349349-6af4d580-b57a-11eb-9d96-3afdf8718dcb.png)
+
+   <li> Hasilnya :
+  
+   ![Screenshot_240](https://user-images.githubusercontent.com/24362384/118349361-78aa5b00-b57a-11eb-94ff-2754ecf7f76f.png)
+
    </li>
  <ol>
